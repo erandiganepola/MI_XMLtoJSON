@@ -11,7 +11,7 @@ paths:
       requestBody:
         description: Sample Payload
         content:
-          application/json:
+          application/xml:
             schema:
               type: object
               properties:
